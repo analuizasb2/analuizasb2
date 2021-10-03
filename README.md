@@ -15,6 +15,6 @@ Here are some ideas to get you started
 - ⚡ Fun fact: ...
 -->
 
-👀 Interested in Web Development
-😄 Pronouns: ela/she/ella
-📫 How to reach me: analuizasb2@gmail.com | https://www.linkedin.com/in/ana-luiza-braga-996868a3/
+- 👀 Interested in Web Development
+- 😄 Pronouns: ela/she/ella
+- 📫 How to reach me: analuizasb2@gmail.com | https://www.linkedin.com/in/ana-luiza-braga-996868a3/
