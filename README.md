@@ -1,6 +1,6 @@
 ### Hey, I'm Ana!
 
-- 👩‍💻 I Studied Electrical Engineering, worked for a while with embedded systems development and then switched career into software development
+- 👩‍💻 Software developer. I Studied Electrical Engineering, worked with embedded systems development and then switched into software development
 - 👀 Interested in Web Development
 - 😄 Pronouns: ela/she/ella
 - ⚡ Fun fact: I like to play the guitar and the flute, and I love watching sunsets 🌅 
