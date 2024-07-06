@@ -1,9 +1,9 @@
 ### Hey, I'm Ana!
 
-- 👩‍💻 Software developer. I Studied Electrical Engineering, worked with embedded systems development and then switched into software development
+- 👩‍💻 Software engineer. I studied Electrical Engineering, and currently doing a graduate course on Software Engineering, which has been my job area for the past 3.5 years.
 - 👀 Interested in Web Development
 - 😄 Pronouns: ela/she/ella
-- ⚡ Fun fact: I like to play the guitar and the flute, and I love watching sunsets 🌅 
+- ⚡ Fun fact: I like to play the guitar and the flute, and watch sunsets 🌅 
 <div>
   <a href="mailto:analuizasb2@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
