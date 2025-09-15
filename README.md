@@ -1,6 +1,6 @@
 ### Hey, I'm Ana!
 
-- 👩‍💻 Software engineer. I studied Electrical Engineering, and currently doing a graduate course on Software Engineering, which has been my job area for the past 3.5 years.
+- 👩‍💻 Software engineer. I studied Electrical Engineering, and specialized on Software Engineering, which has been my job area for the past 4 years.
 - 👀 Interested in Web Development
 - 😄 Pronouns: ela/she/ella
 - ⚡ Fun fact: I like to play the guitar and the flute, and watch sunsets 🌅 
